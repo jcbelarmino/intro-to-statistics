@@ -3,7 +3,8 @@
 ## pre-requisits
 
 * Python 2.7+ (https://www.python.org/)
-* pip
+* python-pip
+* python-tk
 
 ## building
 
