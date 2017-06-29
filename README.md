@@ -10,3 +10,10 @@
 ```
 $ pip install -r requirements.txt
 ```
+
+
+## running
+
+```
+python <lesson_name>.py
+```
